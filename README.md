@@ -1,4 +1,4 @@
-<h1 align="center">xiaohu</h1>
+<h1 align="center">Leo Hu</h1>
 
 <p align="center">
   <em>AI engineer &amp; quant systems builder — turning models and market data into disciplined, production-grade systems.</em>
