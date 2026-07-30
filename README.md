@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hkhk792/quantdesk"><img alt="QuantDesk" src="https://img.shields.io/badge/project-QuantDesk-0b7285?style=for-the-badge" /></a>
+  <a href="https://github.com/leohux/quantdesk"><img alt="QuantDesk" src="https://img.shields.io/badge/project-QuantDesk-0b7285?style=for-the-badge" /></a>
   <img alt="Focus" src="https://img.shields.io/badge/focus-AI%20Agents%20·%20Quant-1f2937?style=for-the-badge" />
   <img alt="Principle" src="https://img.shields.io/badge/principle-fail--closed-8b0000?style=for-the-badge" />
 </p>
@@ -26,7 +26,7 @@ I build systems where **AI meets capital markets** — event-driven architecture
 
 ### Featured
 
-**[QuantDesk](https://github.com/hkhk792/quantdesk)** — an open-source US-equities quant stack: backtest → paper → IBKR live, **fail-closed by default**. Event-driven core, shared strategy interface, FastAPI + React.
+**[QuantDesk](https://github.com/leohux/quantdesk)** — an open-source US-equities quant stack: backtest → paper → IBKR live, **fail-closed by default**. Event-driven core, shared strategy interface, FastAPI + React.
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -40,8 +40,9 @@ I build systems where **AI meets capital markets** — event-driven architecture
 ---
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hkhk792&show_icons=true&hide_border=true&theme=graywhite&count_private=true" height="150" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhk792&layout=compact&hide_border=true&theme=graywhite" height="150" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=leohux&show_icons=true&hide_border=true&theme=graywhite&count_private=true" height="150" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohux&layout=compact&hide_border=true&theme=graywhite" height="150" />
 </p>
 
 <p align="center"><sub><em>Build safely. Ship deliberately.</em></sub></p>
+
