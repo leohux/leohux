@@ -18,11 +18,11 @@
 <p align="center">
   <a href="https://github.com/leohux/quantdesk"><img src="https://img.shields.io/badge/QUANTDESK-0b7285?style=for-the-badge&logo=github&logoColor=white" alt="QuantDesk" /></a>
   <a href="https://github.com/leohux/VisionDesk-AI"><img src="https://img.shields.io/badge/VISIONDESK--AI-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="VisionDesk-AI" /></a>
-  <a href="https://github.com/leohux"><img src="https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:hxjspacex1@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <p align="center">
-  📫 Reach me via GitHub: <a href="https://github.com/leohux">@leohux</a>
+  📫 Reach me at: <a href="mailto:hxjspacex1@gmail.com">hxjspacex1@gmail.com</a>
 </p>
 
 ---
