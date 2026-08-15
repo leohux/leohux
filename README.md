@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0B7285&center=true&vCenter=true&width=680&lines=Leo+Hu;AI+%26+Quant+Systems;Build+safely.+Ship+deliberately." alt="Typing SVG" />
 </div>
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/leohux/quantdesk"><img src="https://img.shields.io/badge/QUANTDESK-0b7285?style=for-the-badge&logo=github&logoColor=white" alt="QuantDesk" /></a>
+  <a href="https://github.com/leohux/quantdesk-oss"><img src="https://img.shields.io/badge/QUANTDESK-0b7285?style=for-the-badge&logo=github&logoColor=white" alt="QuantDesk" /></a>
   <a href="https://github.com/leohux/VisionDesk-AI"><img src="https://img.shields.io/badge/VISIONDESK--AI-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="VisionDesk-AI" /></a>
   <a href="mailto:hxjspacex1@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
@@ -29,7 +29,7 @@
 
 ### 🛠️ The Workshop
 
-* **Quant Systems:** Building **[QuantDesk](https://github.com/leohux/quantdesk)** — a minimal personal US-equities desk: research → alpha-wash → paper → IBKR live. Fail-closed by default. Gates kill fake edge (survivorship / PIT / costs / attribution).
+* **Quant Systems:** Building **[QuantDesk](https://github.com/leohux/quantdesk-oss)** (public OSS) — a minimal personal US-equities desk: research → alpha-wash → paper → IBKR live. Fail-closed by default. Gates kill fake edge (survivorship / PIT / costs / attribution).
 * **AI Agents:** Shipping local-first and product-facing agents — **[VisionDesk-AI](https://github.com/leohux/VisionDesk-AI)** (YOLO + VLM desktop vision) and **[PEN-X1 Agent](https://github.com/leohux/pen-x1-agent)** (linear product-analyst pipeline).
 * **Reliability Engineering:** Prefer systems that refuse unsafe action over ones that “mostly work.” Observability, reproducibility, and hard kill-switches over soft heuristics.
 * **Research Discipline:** Alpha must survive survivorship bias, point-in-time universe checks, transaction costs, and attribution before it earns capital.
@@ -73,7 +73,7 @@
 
 ### 🚀 Featured Projects
 
-**[QuantDesk](https://github.com/leohux/quantdesk)** — *Minimal US-equities personal desk*
+**[QuantDesk](https://github.com/leohux/quantdesk-oss)** — *Minimal US-equities personal desk (public OSS)*
 * **Role:** Solo builder (research → paper → live)
 * **Overview:** End-to-end quant stack with alpha-wash gates that kill fake edge before capital is risked. Event-driven core, shared strategy interface, FastAPI backend + React console, IBKR live path that fails closed.
 * **Tech:** `Python`, `FastAPI`, `React`, `TypeScript`, `Docker`, `PostgreSQL`, `IBKR`
