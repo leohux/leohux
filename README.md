@@ -93,8 +93,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leohux&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohux&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="165" src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leohux&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
 </p>
 
 <br />
